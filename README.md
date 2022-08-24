@@ -1,4 +1,4 @@
-### Encriptador👋
+### Encriptador Challenge👋
 #### Proyecto de aprendizaje para el Curso de programación brindado por Oracle + Alura Latam.
 
 
